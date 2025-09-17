@@ -6,7 +6,7 @@
 Based on the laboratory report, here is a detailed analysis of the rebar consumption data from 2018 to 2025 and additionally a summary report yearly breakdown of Cement, Stone, Sand, Admixture.
 
 𝐊𝐞𝐲 𝐅𝐢𝐧𝐝𝐢𝐧𝐠𝐬 (𝐑𝐞𝐛𝐚𝐫):
-**Total Quantity:** The total quantity of rebar is **5,292.92 𝐭𝐨𝐧𝐬 𝐟𝐫𝐨𝐦** **194** 𝐜𝐨𝐧𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭𝐬.
+**Total Quantity:** The total quantity of rebar is **5,292.92 𝐭𝐨𝐧𝐬** 𝐟𝐫𝐨𝐦 **194** 𝐜𝐨𝐧𝐬𝐢𝐠𝐧𝐦𝐞𝐧𝐭𝐬.
 
 **Peak Year:** The year **2019** 𝐬𝐚𝐰 𝐭𝐡𝐞 𝐡𝐢𝐠𝐡𝐞𝐬𝐭 𝐪𝐮𝐚𝐧𝐭𝐢𝐭𝐲 𝐨𝐟 𝐢𝐧𝐛𝐨𝐮𝐧𝐝 𝐫𝐞𝐛𝐚𝐫 𝐚𝐭 **2,538.85** 𝐭𝐨𝐧𝐬 and the highest number of consignments with 82. This represents 47.97% of the total inbound quantity.
 
