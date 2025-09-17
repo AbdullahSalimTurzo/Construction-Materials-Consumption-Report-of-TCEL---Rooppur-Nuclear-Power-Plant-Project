@@ -14,7 +14,7 @@ Based on the laboratory report, here is a detailed analysis of the rebar consump
 
 I analyzed the reports on rebar and corresponding construction material quantity and found some interesting insights that highlight shifts in the industry from 2018 to 2025. This data underscores the importance of a detailed analysis in understanding material trends and supply chain dynamics.
 
-**𝘜𝘴𝘦𝘥 𝘵𝘰𝘰𝘭𝘴: **
+**𝘜𝘴𝘦𝘥 𝘵𝘰𝘰𝘭𝘴:**
 Microsoft Excel
 Power Query Editor
 Microsoft Power BI
