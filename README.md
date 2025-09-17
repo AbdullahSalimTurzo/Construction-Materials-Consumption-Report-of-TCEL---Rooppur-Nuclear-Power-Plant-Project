@@ -26,7 +26,7 @@ DAX Calculation - Formula integration in Measures of individual percentages.
 𝘋𝘢𝘵𝘢 𝘚𝘰𝘶𝘳𝘤𝘦𝘴: Laboratory TCEL - RNPP.
 𝘊𝘰𝘶𝘳𝘵𝘦𝘴𝘺: Laboratory In-charge - TCEL Rooppur Nuclear Power Plant Project.
 
-[Report Link]([url](https://github.com/AbdullahSalimTurzo/Construction-Materials-Consumption-Report-of-TCEL---Rooppur-Nuclear-Power-Plant-Project/blob/002bef093f41f3e30183757acf4c442a77943d6c/Rebar%20details%20(Challan%20wise).pdf)) 
+[Report Link]([url](https://github.com/AbdullahSalimTurzo/Construction-Materials-Consumption-Report-of-TCEL---Rooppur-Nuclear-Power-Plant-Project/blob/002bef093f41f3e30183757acf4c442a77943d6c/Rebar%20details%20(Challan%20wise).pdf))
 
 Copyright (c) 2025 Abdullah Salim Turja
 
